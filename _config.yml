@@ -1,0 +1,28 @@
+name: Austin Spurs
+favicon: null
+layout_spectrum: 0.03313678549602628
+typography_spectrum: 0.37000510562211275
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.02107774675823748
+  lightness: 0.03694624290801585
+  saturation: 0.061564682284370065
+  rhythmicContrast: 0.82797323144041
+purpose: []
