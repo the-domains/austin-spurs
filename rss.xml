@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Austin Spurs]]></title>
         <description><![CDATA[Austin Spurs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/austin-spurs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Jun 2016 03:08:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 24 Jun 2016 03:45:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/austin-spurs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Songs]]></title>
+            <description><![CDATA[<p>Glory Glory</p>]]></description>
+            <link>https://thegrid.ai/austin-spurs/songs/index.html</link>
+            <guid isPermaLink="false">12cd2169-4ecb-4f48-bc46-981974c6d351</guid>
+            <pubDate>Fri, 24 Jun 2016 03:45:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/566e3e9f-b55b-4cf1-8fca-48bf304481c0.jpg">]]></description>
-            <link>undefinedwelcome-to-austin-spurs/index.html</link>
+            <link>https://thegrid.ai/austin-spurs/welcome-to-austin-spurs/index.html</link>
             <guid isPermaLink="false">cf9cbe98-865b-4ad4-9121-bea66199510b</guid>
             <pubDate>Fri, 24 Jun 2016 03:08:33 GMT</pubDate>
         </item>
